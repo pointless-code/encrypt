@@ -2,7 +2,7 @@
 
 ## About Encrypt
 
-An container which encrypts your message. Good luck decrypting it!!!
+A container which encrypts your message. Good luck decrypting it!!!
 
 ## Pull from docker
 
